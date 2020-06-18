@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+tcp:
+  server:
+    host: localhost
+    port: 5000
+  client:
+    connection:
+      poolSize: 50
+
+customer:
+  check-delay-milliseconds-time: 1000
