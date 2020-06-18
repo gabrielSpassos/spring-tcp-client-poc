@@ -1,0 +1,16 @@
+{
+  "name": "tcp-server",
+  "version": "1.0.0",
+  "description": "Simple TCP Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "TCP",
+    "Server"
+  ],
+  "author": "Gabriel Passos",
+  "license": "ISC"
+}
